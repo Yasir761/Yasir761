@@ -45,7 +45,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohammad-yasir-b5a8101b4//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mohammad%20Yasir%20Ansari-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:myasiransari16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-myasiransari16@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:myasiransari16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-workwith29@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Yasir761](https://github.com/Yasir761)
