@@ -20,12 +20,11 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MATERIAL-UI](https://img.shields.io/badge/-MATERIAL-UI-333333?style=flat&logo=react)
-  ![MATERIAL-UI](https://img.shields.io/badge/-MATERIAL-UI-333333?style=flat&logo=react)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=react)
+  ![MATERIAL-UI](https://img.shields.io/badge/-MATERIAL-UI-333333?style=flat&logo=material-ui)
+  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=scss)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![FIREBASE](https://img.shields.io/badge/-FIREBASE-333333?style=flat&logo=mongodb)
+  ![FIREBASE](https://img.shields.io/badge/-FIREBASE-333333?style=flat&logo=firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
