@@ -1,10 +1,4 @@
-
-
 [![An image of @yasir761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasir761)](https://holopin.io/@yasir761)
-
-
-
-
 # 💫 About Me:
 I'm currently looking for remote job.<br>Looking for an Open Source Projects,  Tech Articles, Full Stack projects to contribute to.<br>Talk to me about Java, JavaScript, React-Js, Open Source.<br>Fun fact : I can code without Coffee.<br>
 
