@@ -2,7 +2,6 @@
 # 💫 About Me:
 I'm currently looking for remote job.<br>Looking for an Open Source Projects,  Tech Articles, Full Stack projects to contribute to.<br>Talk to me about Java, JavaScript, React-Js, Open Source. 
 <br> Building <b>DIRECTION </b> - An Open-Source library.<br>
-
 <br>Fun fact : I can code without Coffee.<br>
 
 
