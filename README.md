@@ -1,8 +1,6 @@
 [![An image of @yasir761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasir761)](https://holopin.io/@yasir761)
 # 💫 About Me:
-I'm Self-taught developer looking for internships and freelance work.<br>Looking for an Open Source Projects,  Tech Articles, Full Stack projects to contribute to.<br>Talk to me about Java, JavaScript, React-Js, Open Source. 
-
-<br>Fun fact : I can code without Coffee.<br>
+Autodidact Full-Stack Developer passionate about building scalable web apps, Sharing coding tips, tutorials, and insights from my journey to help others solve real-world problems.
 
 
 ## 🌐 Socials:
