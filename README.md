@@ -1,37 +1,34 @@
 
 
-# 👋 Hey there, welcome to my profile!
+![Banner](banner.png)
+
+# 👋 Hey there, welcome to my world of code & creativity!
 
 [![An image of @yasir761's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasir761)](https://holopin.io/@yasir761)
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Mohammad Yasir**, a passionate Full Stack Developer from **India** 🇮🇳. I love crafting elegant solutions and exploring the world of technology. 
+Hey, I’m Mohammad Yasir — a self-taught full-stack developer who believes great software is both crafted and felt.
+I love turning ideas into things that live on the internet — fast, reliable, and meaningful.
 
-- 🐞 **Debugging since**: 2023  
-- ☁️ **Currently learning**: Cloud technologies  
+🧠 Building: tools that make creativity easier
 
-## 🔧 Tech Stack
+🌱 Learning: how to scale ideas that matter
 
-### Languages & Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-</div>
-
-### DevOps & Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-</div>
-
-### Programming Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-</div>
+⚡ Belief: “Consistency beats talent — every single time.”
 
 ---
 
-💡 Feel free to connect or collaborate! I'm always up for learning new things and contributing to impactful projects. 
+
+## 💬 Let’s Connect  
+I’m open to remote roles, collaborations, and new ideas that challenge what’s possible.
+
+
+🌐 [Portfolio](https://codilad.dev)  
+💼 [LinkedIn](https://linkedin.com/in/mohammadyasir761)  
+🐦 [Twitter](https://twitter.com/mohammadyasir761)  
+
+---
+
+⭐ *“Keep shipping. Keep learning. Keep evolving.”*
+
