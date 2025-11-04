@@ -25,8 +25,8 @@ I’m open to remote roles, collaborations, and new ideas that challenge what’
 
 
 🌐 [Portfolio](https://codilad.dev)  
-💼 [LinkedIn](https://linkedin.com/in/mohammadyasir761)  
-🐦 [Twitter](https://twitter.com/mohammadyasir761)  
+💼 [LinkedIn](www.linkedin.com/in/mohammad-yasir-b5a8101b4)  
+🐦 [Twitter](https://x.com/Mohd_Yasir29)  
 
 ---
 
