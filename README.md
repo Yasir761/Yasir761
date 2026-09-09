@@ -33,7 +33,7 @@ https://x.com/yasirbuilds
 https://www.codilad.dev/journal
 
 📧 **Email**  
-myasiransari16@gmail.com
+yasir@codilad.dev
 
 ---
 
